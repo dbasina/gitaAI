@@ -12,16 +12,6 @@ GitaAI is a web application built using Flask for the backend and React (Next.js
 - 🐳 **Docker Support**: Easily deploy the project using Docker.
 
 ---
-
-## Project Structure
-
-my-app/ ├── app/ # React (Next.js) frontend │ ├── .next/ # Build output │ ├── public/ # Static assets │ ├── src/ # Source code │ │ ├── components/ # React components │ │ ├── pages/ # Next.js pages │ │ └── styles/ # Styles │ ├── package.json # Frontend dependencies │ └── next.config.js # Next.js configuration ├── backend/ # Flask backend │ ├── flask_app.py # Flask application │ ├── requirements.txt # Python dependencies │ └── utils/ # Utility functions ├── Dockerfile # Docker configuration ├── docker-compose.yml # Multi-service setup ├── README.md # Documentation └── .gitignore # Ignored files
-
-yaml
-Copy code
-
----
-
 ## Setup Instructions
 
 ### Prerequisites
