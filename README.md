@@ -24,13 +24,19 @@ GitaAI is a web application built using Flask for the backend and React (Next.js
 
 ### Backend (Flask)
 
-1. Navigate to the backend directory:
+1. In gitaAI/backend/flask_app.py authentication variables and keys lines 13-15:
+   ``` 
+   ELASTIC_CLOUD_ID = ""
+   ELASTIC_API_KEY = ""
+   openai.api_key= ""
+   ```
+2. Navigate to the backend directory:
    ```bash
    cd backend
    pip install -r requirements.txt
    python flask_app.py```
 
-2. In a new terminal window:
+3. In a new terminal window:
    ```
    npm run dev
    ```
