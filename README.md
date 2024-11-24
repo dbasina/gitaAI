@@ -9,7 +9,7 @@ GitaAI is a web application built using Flask for the backend and React (Next.js
 - 🧠 **Semantic Search**: Search verses from the Bhagavad Gita using Elasticsearch.
 - 🤖 **AI-Powered Insights**: Generate meaningful interpretations using GPT.
 - ⚙️ **Integrated Frontend and Backend**: React (Next.js) serves as the frontend, and Flask handles API requests.
-- 🐳 **Docker Support**: Easily deploy the project using Docker.
+
 
 ---
 ## Setup Instructions
@@ -18,7 +18,7 @@ GitaAI is a web application built using Flask for the backend and React (Next.js
 
 - [Node.js](https://nodejs.org/) (version 18+ recommended)
 - [Python](https://www.python.org/) (version 3.9+ recommended)
-- [Docker](https://www.docker.com/) (optional, for containerized deployment)
+
 
 ---
 
