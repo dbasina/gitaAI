@@ -34,7 +34,8 @@ GitaAI is a web application built using Flask for the backend and React (Next.js
    ```bash
    cd backend
    pip install -r requirements.txt
-   python flask_app.py```
+   python flask_app.py
+   ```
 
 3. In a new terminal window:
    ```
