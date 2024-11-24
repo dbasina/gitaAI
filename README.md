@@ -42,3 +42,5 @@ GitaAI is a web application built using Flask for the backend and React (Next.js
    npm run dev
    ```
 4. Follow local URL to interact with chat bot.
+5. The chatbot sample response:
+   ![sample response](sample_output.png)
